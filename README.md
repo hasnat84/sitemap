@@ -1,0 +1,2 @@
+# sitemap
+Sharp Striping sitemap
